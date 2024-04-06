@@ -26,3 +26,5 @@ Accessibility: With no paywalls and broad device/browser compatibility, SnapScri
 Efficiency: The deliberate minimalist design, devoid of superfluous elements, ensures a high-performance solution focused on efficient text extraction and note creation.
 
 In conclusion, SnapScript stands as a straightforward, high-performance solution that meets the challenge head-on, providing users with a powerful tool for extracting, managing, and retrieving textual information from images.
+
+just run the python file to execute.
