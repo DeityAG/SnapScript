@@ -1,4 +1,4 @@
-## Randomize Hackathon, January 2024 
+# Randomize Hackathon, January 2024 
 
 # SnapScript
 Title: SnapScript - Text Extraction and Note Creation Website
